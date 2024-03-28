@@ -1,5 +1,3 @@
-Added No Clip and probably some other stuff I forgot about. Press N to enter No Clip mode while flying.
-
 ## Controls
 
 * **Hold Tab** - Enter mode select. Hover over a mode and release tab to select it.
