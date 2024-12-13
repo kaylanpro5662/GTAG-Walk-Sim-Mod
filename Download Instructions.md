@@ -1,6 +1,6 @@
 # Instructions to Download
 ~~~
-Note: Make sure you have the Bepinex plugins file. To download, please download the (Monke Mod Manager)[https://github.com/kaylanpro5662/GTAG-Walk-Sim-Mod/blob/main/MonkeModManager.exe] file.
+Note: Make sure you have the Bepinex plugins file. To download, please download the (Monke Mod Manager)[https://github.com/kaylanpro5662/GTAG-Walk-Sim-Mod/blob/main/MonkeModManager.exe] file. Look at the MonkeModManagerInstructions.md to download.
 ~~~
 ## To download, please follow these steps of instructions:
 ### 1: Download the [Walk Simulator Mod]( to your downloads folder.
